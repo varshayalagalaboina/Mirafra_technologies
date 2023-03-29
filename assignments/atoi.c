@@ -19,6 +19,6 @@ int main()
 	printf("enter a string\n");
 	scanf("%s",str);
 	x=atoi(str);
-	printf("%s",str);
+	printf("%d",x);
 }
 
